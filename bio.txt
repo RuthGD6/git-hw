@@ -3,3 +3,7 @@ Favorite Movie: [The Batman]
 Favorite Music: [Alec Benjamin]
 Favorite Food: [italian]
 Favorite Place: [Vancouver]
+Skills:
+- [UI/UX deisgn]
+- [HTML]
+- [CSS]
