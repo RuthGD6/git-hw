@@ -1,0 +1,14 @@
+Professional Experience:
+1. [web designer]
+   Company: [LOVE DESIGN STUDIO]
+   Duration: [two years]
+   Key Responsibilities:
+   - [Programmed front-end websites]
+   - [Developed responsive and dynamic websites,]
+
+2. [web designer]
+   Company: [J&S Collection]
+   Duration: [two years]
+   Key Responsibilities:
+   - [Created wireframes with Whimsical and designed website prototypes in Adobe XD for a clothing website.]
+   - [Developed the website using HTML, Bootstrap, CSS, and JavaScript, considering responsiveness and best practices]
