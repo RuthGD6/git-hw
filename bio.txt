@@ -4,11 +4,17 @@ Favorite Music: [Alec Benjamin]
 Favorite Food: [italian]
 Favorite Place: [Vancouver]
 
+
 Skills:
-- [UI/UX design]
-- [HTML]
-- [CSS]
+[UI/UX design]
+[HTML]
+[CSS]
 
 Languages:
-- [spanish]
-- [english]
+[spanish]
+[english]
+
+Skills:
+[UI/UX deisgn]
+[HTML]
+[CSS]
