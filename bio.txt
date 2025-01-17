@@ -8,3 +8,7 @@ Skills:
 - [UI/UX design]
 - [HTML]
 - [CSS]
+
+Languages:
+- [spanish]
+- [english]
